@@ -1,20 +1,45 @@
-### Olá! Sou Vitor Paes 🖐️! 
+<div align="center">
+  <h1>Olá! Sou Vitor Paes 🖐️</h1>
+  <h3>Estudante de Desenvolvimento de Sistemas @ Unicamp | Campinas-SP</h3>
+  
+  <p>
+    Apaixonado por criar soluções através do código. Atualmente focando em desenvolvimento Web e aprimorando minhas habilidades em Python e JavaScript.
+  </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorhenriquepaes/) 
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vhgpaes@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@325326557633708034)
-[![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitorhgp1808)
+  <div align="center">
+    <a href="https://www.instagram.com/vitorhenriquepaes/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="mailto:vhgpaes@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://discord.com/users/325326557633708034">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+    <a href="https://github.com/Vitorhgp1808">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+  </div>
+</div>
 
-![Vitorhgp1808 GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorhgp1808&show_icons=true&theme=radical)
+<br/>
 
-### Linguagens que uso: 
-<div style="display:inline-block"><br/>
-    <img alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+### 🛠️ Tecnologias e Ferramentas
 
-</div><br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </div>
 
-### Unicamp-DS (desenvolvimento de sistemas) 2023
-### Campinas-SP
+<br/>
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/Vitorhgp1808">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorhgp1808&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorhgp1808&layout=compact&theme=radical"/>
+  </a>
+</div>
